@@ -18,7 +18,7 @@ At first glance, NotesShell behaves like any typical Markdown editor. However, b
 - **Note Management:** Create, load, save (including "Save As..."), and delete notes from the built-in interface.
 - **Search & Filter:** Filter notes by filename using a search box above the sidebar.
 - **Configurable Shell:** Shell command and arguments are configurable via `~/.notesshell/config.json`.
-- **Sample Notes:** Comes with example notes (e.g., math, physics, chemistry) to help the interface look convincingly academic under casual inspection. These are stored in notes/ in the repository. Copy them to your NotesShell install folder.
+- **Sample Notes:** Comes with example notes (e.g., math, physics...) to help the interface look convincingly academic under casual inspection. These are stored in notes/ in the repository. Copy them to your NotesShell install folder.
 - **Usable as a Notes App:** While designed with stealth in mind, NotesShell functions fully as a standalone Markdown notepad—ideal for real-time documentation or note-taking during engagements.
 
 ## III. Implementation Overview
