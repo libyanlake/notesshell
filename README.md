@@ -65,7 +65,7 @@ python3 noteshell.py
 
 ## V. Notes Management
 
-- Notes are saved as `.md` files in `~/.noteshell/notes`.
+- Notes are saved as `.md` files in `~/.notesshell/notes`.
 - The filename is auto-generated from the first non-empty line of the note.
 - **New:** Clears the editor to start a new note.
 - **Save / Save As...:** Saves to file, prompting for filename if necessary.
