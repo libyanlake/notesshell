@@ -13,11 +13,11 @@ At first glance, NotesShell behaves like any typical Markdown editor. However, b
 - **Dual Interface:** A clean Markdown editor with a live preview pane and sidebar for managing notes.
 - **Stealth Terminal:** Hidden terminal view (toggle with `F12`), styled with a light theme to reduce visibility and mimic non-technical applications. Has multiple themes, each worse than the last.
 - **Integrated Shell:** Launches a system shell (e.g., Bash, Zsh, or Cmd.exe) within the app, with interactive input/output.
-- **Persistent Notes:** Markdown files are stored locally at `~/.noteshell/notes`.
+- **Persistent Notes:** Markdown files are stored locally at `~/.notesshell/notes`.
 - **Live Preview:** Real-time rendering of Markdown as you type.
 - **Note Management:** Create, load, save (including "Save As..."), and delete notes from the built-in interface.
 - **Search & Filter:** Filter notes by filename using a search box above the sidebar.
-- **Configurable Shell:** Shell command and arguments are configurable via `~/.noteshell/config.json`.
+- **Configurable Shell:** Shell command and arguments are configurable via `~/.notesshell/config.json`.
 - **Sample Notes:** Comes with example notes (e.g., math, physics, chemistry) to help the interface look convincingly academic under casual inspection. These are stored in notes/ in the repository. Copy them to your NotesShell install folder.
 - **Usable as a Notes App:** While designed with stealth in mind, NotesShell functions fully as a standalone Markdown notepad—ideal for real-time documentation or note-taking during engagements.
 
@@ -49,7 +49,7 @@ pip install tkhtmlview markdown2
 ### Running
 
 ```bash
-python3 noteshell.py
+python3 notesshell.py
 ```
 
 ### Keyboard Shortcuts
